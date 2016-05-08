@@ -10,7 +10,7 @@
     "resources": {
         "media": [
             {
-                "file": "images/icon",
+                "file": "images/icon.png",
                 "memoryFormat": "Smallest",
                 "menuIcon": true,
                 "name": "ICON",
@@ -21,7 +21,7 @@
                 "type": "bitmap"
             },
             {
-                "file": "images/grid",
+                "file": "images/grid.png",
                 "memoryFormat": "Smallest",
                 "name": "GRID",
                 "storageFormat": "png",
