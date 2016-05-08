@@ -160,7 +160,7 @@ void window_load(Window *window) {
   
   //Create the image layer used by the grid
   s_bitmap_layer = bitmap_layer_create(bounds);
-  s_bitmap = gbitmap_create_with_resource(RESOURCE_ID_grid);
+  s_bitmap = gbitmap_create_with_resource(RESOURCE_ID_GRID);
   bitmap_layer_set_compositing_mode(s_bitmap_layer, GCompOpAssign);
   bitmap_layer_set_bitmap(s_bitmap_layer, s_bitmap);
   bitmap_layer_set_alignment(s_bitmap_layer, GAlignCenter);

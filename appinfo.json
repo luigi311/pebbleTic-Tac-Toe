@@ -11,8 +11,10 @@
         "media": [
             {
                 "file": "images/icon",
+                "memoryFormat": "Smallest",
                 "menuIcon": true,
-                "name": "icon",
+                "name": "ICON",
+                "storageFormat": "png",
                 "targetPlatforms": [
                     "aplite"
                 ],
@@ -21,7 +23,7 @@
             {
                 "file": "images/grid",
                 "memoryFormat": "Smallest",
-                "name": "grid",
+                "name": "GRID",
                 "storageFormat": "png",
                 "targetPlatforms": [
                     "aplite"
