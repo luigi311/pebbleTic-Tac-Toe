@@ -1,0 +1,43 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "luigi311.lg@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Tic Tac Toe",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon",
+                "menuIcon": true,
+                "name": "icon",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/grid",
+                "memoryFormat": "Smallest",
+                "name": "grid",
+                "storageFormat": "png",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Tic Tac Toe",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "23696370-f589-4030-8026-529979263259",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
